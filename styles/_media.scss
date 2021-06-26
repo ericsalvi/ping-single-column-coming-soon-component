@@ -1,0 +1,72 @@
+@media (min-width: 700px) {
+  body {
+    padding: 76px 28px 45.5px;
+  }
+  .logo {
+    margin-bottom: 11.5px;
+    width: 76px;
+  }
+  h1 {
+    font-size: 2.15rem;
+    margin-bottom: 18px;
+  }
+  main {
+    p {
+      font-size: 0.9rem;
+      margin-bottom: 35px;
+    }
+    form {
+      display: flex;
+      gap: 16px;
+      justify-content: space-between;
+      margin-bottom: 78px;
+      max-width: 640px;
+      padding: 0;
+      input,
+      button {
+        max-width: unset;
+        padding: 16px 25px;
+      }
+      div {
+        flex: 1 0 66%;
+        position: relative;
+        input {
+          font-size: 0.77rem;
+          margin-bottom: 0;
+        }
+        .error-msg {
+          font-size: 0.545rem;
+          left: 24px;
+          margin-bottom: 0;
+          position: absolute;
+          top: 60px;
+        }
+      }
+      button {
+        font-size: 0.7rem;
+        flex: 1 0 calc(34% - 16px);
+        padding: 0;
+      }
+    }
+  }
+  img {
+    max-width: 572px;
+  }
+  footer {
+    font-size: 0.55rem;
+    .social {
+      margin-bottom: 22px;
+      .social__icons {
+        font-size: 0.65rem;
+        height: 28px;
+        width: 28px;
+        &:last-child .fab {
+          transform: scale(1.15) translateY(0.8px);
+        }
+      }
+      * + * {
+        margin-left: 12px;
+      }
+    }
+  }
+}
