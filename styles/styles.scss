@@ -54,7 +54,7 @@ main {
       font-size: 0.64rem;
       padding: 12px 32px;
       margin-bottom: 10px;
-      transition: all 0.1s ease-in-out;
+      transition: border 0.1s ease-in-out;
       &::placeholder {
         color: var(--pale-blue);
         letter-spacing: -0.02px;
@@ -82,7 +82,7 @@ main {
       font-size: 0.6rem;
       font-weight: 600;
       padding: 13px 0;
-      transition: all 0.1s ease-in-out;
+      transition: border 0.1s ease-in-out, opacity 0.1s ease-in-out;
       user-select: none;
       &:hover {
         opacity: 0.8;
