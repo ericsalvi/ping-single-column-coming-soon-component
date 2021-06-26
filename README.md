@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/intro-component-solution-mobilefirst-js-flex-fun-submit-message-xxP1qRJV_)
-- Live Site URL: [https://ericsalvi.github.io/intro-component-with-signup-form/](https://ericsalvi.github.io/intro-component-with-signup-form/)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/ping-coming-soon-component-scss-mobilefirst-bem-v5Aq_-oih)
+- Live Site URL: [https://ericsalvi.github.io/ping-single-column-coming-soon-component/](https://ericsalvi.github.io/ping-single-column-coming-soon-component/)
 
 ## My process
 
